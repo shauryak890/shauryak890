@@ -15,7 +15,7 @@ I'm a passionate technologist who thrives at the intersection of web development
 - 🔭 Currently working on: Advanced skincare analysis and routine planner using deep learning
 - 🌱 Learning: Cloud Architecture & Generative AI
 - 💡 Expertise: Full-stack development with ML/DL integration
-- 🎓 Background: Computer Science with focus Data Science
+- 🎓 Background: Computer Science with focus on Data Science
 </details>
 
 ### 🎮 Watch the Snake eat my Contributions
