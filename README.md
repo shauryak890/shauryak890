@@ -12,11 +12,10 @@ I'm a passionate technologist who thrives at the intersection of web development
 <details>
 <summary>🎯 What Sets Me Apart</summary>
 
-- 🔭 Currently working on: Advanced skincare analysis using deep learning
+- 🔭 Currently working on: Advanced skincare analysis and routine planner using deep learning
 - 🌱 Learning: Cloud Architecture & MLOps
 - 💡 Expertise: Full-stack development with AI integration
 - 🎓 Background: Computer Science with focus on ML/AI
-- 🌟 Fun fact: I can explain complex ML concepts using pizza analogies!
 </details>
 
 ### 🎮 Watch the Snake eat my Contributions
