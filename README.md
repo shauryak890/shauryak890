@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Shaurya Kashyap
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Shaurya+👋;Full+Stack+Developer+🚀;ML+Enthusiast+🤖;Problem+Solver+💡" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Shaurya+👋;Full+Stack+Developer+🚀;ML+Enthusiast+🤖;Problem+Solver+💡" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
